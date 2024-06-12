@@ -1,5 +1,7 @@
 # **Financial Data Exploratory Analysis**
-### My client as requested that their data remain private.
+### Pathways to Life, LLC is a foster care agency, partnering with the state of Utah.
+#### <i>My client as requested that their data remain private.</i>
+
 
 <br>	Utilized Excel and Power Query to extract, transform, & load bank statement data spanning almost two years of data. </br>
 <br>	Created Pivot Tables and calculated fields to summarize data across time and transaction categories. Calculated profit margin and operating expense ratio as metrics to help the client understand their finances.</br>
